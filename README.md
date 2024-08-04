@@ -4,6 +4,7 @@
 
 - Node.js and npm installed
 - MongoDB instance
+- Coingecko API key -[Get Here](https://www.coingecko.com/en/api)
 
 ## Setup
 1. Clone the repository:
